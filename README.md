@@ -30,7 +30,7 @@ When working with web applications, it can be essential to extract specific piec
 
 3. Change to the project directory:
    ```bash
-   cd fallparams
+   cd FAllParams
    ```
 4. Install the required dependencies using `pip`:
    ```bash
