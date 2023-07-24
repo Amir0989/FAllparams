@@ -27,12 +27,15 @@ When working with web applications, it can be essential to extract specific piec
 1. Ensure you have [Python](https://www.python.org/) installed (Python 3.6+ is recommended).
 
 2. Clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/h3li0p4us3/FAllparams
+   ```
 
-3. Change to the project directory:
+4. Change to the project directory:
    ```bash
    cd FAllParams
    ```
-4. Install the required dependencies using `pip`:
+5. Install the required dependencies using `pip`:
    ```bash
    pip install -r requirements.txt
    ```
