@@ -43,7 +43,9 @@ When working with web applications, it can be essential to extract specific piec
 ## Usage
 
 To use FAllParams, run the tool with the target URL as follows:
-
+   ```py
+   python FAllparams.py -u <target-url>
+   ```
 **Command-Line Arguments:**
 
 - `-u <target-url>`: The target URL of the web application you want to analyze.
